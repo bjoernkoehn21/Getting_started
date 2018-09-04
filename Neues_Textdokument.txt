@@ -1,0 +1,4 @@
+Dies ist ein nach dem 1. clone von GitHub erstelltes Textdokument!
+
+In order to unstage the new document use the following code (keep in mind that the ending .txt must be not be left away):
+git reset HEAD Neues_Textdokument.txt
