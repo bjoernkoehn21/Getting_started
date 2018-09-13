@@ -1,0 +1,2 @@
+Oh, und jetzt kommt sogar eine neue Datei im Branch2 hinzu, die man auch im Explorer nicht sieht, 
+wenn man z.B. in Branch1 ist.
